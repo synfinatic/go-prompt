@@ -1,5 +1,13 @@
 # go-prompt
 
+## Notice
+
+This is my personal fork of go-prompt since c-bata seems to have disappeared.  I
+include some PRs that seem to fix some bugs.  I suggest you proceed with caution
+if you choose to use this repo.
+
+## End Notice
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/c-bata/go-prompt)](https://goreportcard.com/report/github.com/c-bata/go-prompt)
 ![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)
 [![GoDoc](https://godoc.org/github.com/c-bata/go-prompt?status.svg)](https://godoc.org/github.com/c-bata/go-prompt) 
